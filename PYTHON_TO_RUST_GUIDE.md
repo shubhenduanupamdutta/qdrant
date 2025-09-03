@@ -168,6 +168,7 @@ let results = join_all(tasks).await;
 
 ### Start Here (Familiar Territory)
 
+
 1. **`lib/api/src/grpc/qdrant.proto`** - API definitions (like Python dataclasses)
 2. **`tests/integration-tests.sh`** - Integration tests (like pytest)
 3. **`config/config.yaml`** - Configuration (like Python config files)
